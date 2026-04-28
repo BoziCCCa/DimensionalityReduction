@@ -1,0 +1,15 @@
+[1] M. Garzon et al., Dimensionality Reduction in Data Science. Cham, Cham: Springer International Publishing Springer, 2022. 
+
+[2] C. M. Bishop et al., Pattern Recognition and Machine Learning Christopher M. Bishop. Johanneshov: MTM, 2018. 
+
+[3] Dimensionality reduction in machine learning. (2025). . Morgan Kaufmann, an imprint of Elsevier. 
+
+[4] What is feature selection? - https://www.ibm.com/think/topics/feature-selection
+
+[5] Understanding Wrapper Methods in Machine Learning: A Guide to Feature Selection - https://arismuhandisin.medium.com/understanding-wrapper-methods-in-machine-learning-a-guide-to-feature-selection-23f71059abf8
+
+[6] Wrapper Methods - Feature Selection - https://www.geeksforgeeks.org/machine-learning/wrapper-methods-feature-selection/
+
+[7] Introduction to Feature Selection - https://www.mathworks.com/help/stats/feature-selection.html?utm_source=chatgpt.com
+
+[8] Hands-on with Feature Selection Techniques: Embedded Methods - https://fritz.ai/hands-on-with-feature-selection-techniques-embedded-methods/
